@@ -15256,3 +15256,14 @@
         <Website>https://www.speedrun.com/postal4</Website>
     </AutoSplitter>
 </AutoSplitters>
+<AutoSplitter>
+        <Games>
+            <Game>Happy Wheels</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Drayruns/autosplitters/main/demoAutoSplitter.asl/URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Splits, starts, and resets. (By Dray)</Description>
+        <Website>https://www.speedrun.com/hwh/full_game#Demo</Website>
+    </AutoSplitter>
