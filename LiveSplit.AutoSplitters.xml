@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Happy Wheels</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Drayruns/autosplitters/main/demoAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Devastation</Game>
         </Games>
         <URLs>
